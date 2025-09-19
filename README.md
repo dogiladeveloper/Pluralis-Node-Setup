@@ -1,6 +1,8 @@
 # 🧩PluralisHQ Research Node 0-7.5B Guide - Using Docker
 
 ---
+Step-by-step setup guide for @PluralisHQ, where 300 people are actively running nodes. Even someone with no prior knowledge can easily install it.
+
 
 **Pluralis is building Protocol Learning : a decentralized peer-to-peer system for collaborative AI model training across consumer GPUs worldwide, enabling permissionless and fault tolerant pretraining of large language models without central orchestration**
 
@@ -133,6 +135,4 @@ python3 -m http.server 8080
 - **That's it** ✅
 - **You’re now contributing to Node0 training swarm** 🚀
 
----
-**Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
 ---
